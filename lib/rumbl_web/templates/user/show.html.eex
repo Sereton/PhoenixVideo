@@ -1,0 +1,9 @@
+<h1>Personal User Page</h1>
+
+<h1> Welcome to the page of  <%= render "user.html", user: @user %> </h1>
+
+
+<p><%= link "Back to Users List", to: Routes.user_path(@conn, :index) %>  </p>
+
+
+

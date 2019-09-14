@@ -1,0 +1,6 @@
+{
+    "editor.formatOnSave": true,
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+    "workbench.settings.enableNaturalLanguageSearch": false
+}
